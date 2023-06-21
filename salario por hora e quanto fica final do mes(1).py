@@ -1,0 +1,5 @@
+print("Programa para calcular qunanto ganha no mês em numero de horas")
+qganha = float( input("Digite quanto o ganha por hora: "))
+nhoras = float( input("Digite numeros de horas que trabalha: "))
+slfinal = (qganha * nhoras)
+print("O salario final será de:", slfinal)
